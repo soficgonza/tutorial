@@ -20,3 +20,7 @@ hello <- function() {
 function2<-function(){
   print("Todo OK!!!")
 }
+
+sofi_function<-function(){
+  print("Salsa 2017")
+  }
